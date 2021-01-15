@@ -8,13 +8,13 @@ python3 -m pip install spacy
 ```
 
 ##Collect Words Into Nouns, Verbs, and Adjectives
-```Python
+```
 $ python getNounsAdjVerb.py usdeclar.txt
 Finished, see output in "words".
 ```
 
 ## Generate Passwords
-```Python
+```
 $ python generatePassword.py -s 1 -w 2 words/* --l33t
 CUTRenDeR`
 w4Rbe4r"
