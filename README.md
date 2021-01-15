@@ -7,7 +7,8 @@ A program that will randomly combine words from given a text to a memorable pass
 python3 -m pip install spacy
 ```
 
-##Collect Words Into Nouns, Verbs, and Adjectives
+## Collect Words Into Nouns, Verbs, and Adjectives
+Utilizes [spaCy](https://spacy.io/) to extract specific parts of speech like verbs, nouns, and adjectives 
 ```
 $ python getNounsAdjVerb.py usdeclar.txt
 Finished, see output in "words".
